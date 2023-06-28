@@ -6,10 +6,12 @@
 - do challenges on either codewars or cssbattle or leetcode.
 - build projects while learning.
 - set up a personal portfolio.
+
 ##Challenges
 - Power supply
 - brain-drain :)
 - Ongoing school project.
+
 ##Mindset
 - GRIT!
 - GROWTH!
