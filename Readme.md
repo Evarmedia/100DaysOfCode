@@ -1,6 +1,6 @@
 #Documention for my 100daysofcode challenge.
 ##Goals
-- to continue to learn Javascript(DSA).
+- to continue to learn Javascript(DSA) in FCC.
 - Advance towards a framework(vue or react or both):)
 - Gain more mastery over html and css.
 - do challenges on either codewars or cssbattle or leetcode.
