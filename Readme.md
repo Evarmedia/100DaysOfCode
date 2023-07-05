@@ -16,3 +16,4 @@
 - GRIT!
 - GROWTH!
 - FOCUSED!
+- Energized!
